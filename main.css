@@ -1,3 +1,45 @@
 h1 {
   text-align: right;
 }
+
+#line1 {
+  width: 100%;
+  border: 8px solid midnightblue;
+}
+
+#cursive {
+  font-family: cursive;
+  width: 12%;
+}
+
+
+#totheright {
+  float: right;
+  padding-right: 580px;
+  margin-top: 2px;
+  padding-top: 0;
+  height: 80px;
+}
+
+#totheright li {
+  margin-bottom: 3px;
+}
+.line {
+  width: 100%;
+  border: 3px solid midnightblue;
+  background: midnightblue;
+}
+
+.date {
+  width: 12%;
+  text-align: center;
+  background: midnightblue;
+  color: white;
+  float: right;
+  margin: 1px;
+}
+
+body {
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
